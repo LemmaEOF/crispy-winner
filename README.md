@@ -16,6 +16,6 @@ The PirateStealer phishing malware sends its ill-gotten gains (including tokens,
 
 This project is under the Fuck Around and Find Out License. It is to be used for Good, not Evil. **THIS PROJECT MAY ONLY BE USED TO PING-SPAM WEBHOOKS BELONGING TO PHISHERS AND FASCISTS. DO NOT USE IT TO SPAM ANYONE ELSE.**
 
-If you encounter any other phishing malware with other webhooks, please write a PR to add them to `webhooks.txt`. In the future I may write a tool to automatically extract the webhook from malware EXEs.
+If you encounter any other phishing malware with other webhooks, please write a PR to add them to `webhooks.py`. In the future I may write a tool to automatically extract the webhook from malware EXEs.
 
 If you want to help in other ways, report [this project](https://github.com/bytixo/PirateStealer) to GitHub using the [Report Content](https://github.com/contact/report-content) form. Some versions of the payload pull the raw code from this repo in order to function, so getting it removed will shut down numerous branches.
